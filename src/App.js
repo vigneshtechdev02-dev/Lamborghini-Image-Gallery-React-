@@ -1,7 +1,7 @@
-import Hero from "./Hero"
-import Filter from "./filter"
-import Model from "./Model"
-import Navbar from "./Navbar"
+import Hero from "./components/Hero";
+import Filter from "./components/filter";
+import Model from "./components/Model";
+import Navbar from "./components/Navbar";
 
 function App (){
     return(
