@@ -2,7 +2,7 @@ import ReactDom from "react-dom/client";
 import "./style.css";
 
 // Seleting Section
-import App from "./App";
+import App from "./components/App";
 
 
 const root = ReactDom.createRoot(document.getElementById("root"));

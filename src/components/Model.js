@@ -1,9 +1,9 @@
-import p1 from "./assest/images/p-1.jpeg";
-import p2 from "./assest/images/p-2.jpeg";
-import p3 from "./assest/images/p-3.jpeg";
-import p4 from "./assest/images/p-4.jpeg";
-import p5 from "./assest/images/p-5.jpeg";
-import p6 from "./assest/images/p-6.jpeg";
+import p1 from "../assest/images/p-1.jpeg";
+import p2 from "../assest/images/p-2.jpeg";
+import p3 from "../assest/images/p-3.jpeg";
+import p4 from "../assest/images/p-4.jpeg";
+import p5 from "../assest/images/p-5.jpeg";
+import p6 from "../assest/images/p-6.jpeg";
 
 function Model() {
     return (
